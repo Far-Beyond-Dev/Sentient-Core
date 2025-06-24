@@ -3,7 +3,6 @@ name = "Sentient-Core"
 version = "0.1.0"
 edition = "2021"
 description = "Sample Horizon plugin demonstrating core functionality"
-authors = ["Your Name <your.email@example.com>"]
 license = "MIT"
 repository = "https://github.com/Far-Beyond-Dev/your-plugin"
 
